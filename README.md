@@ -1,4 +1,9 @@
-# 💫 Hi 👋, I'm Ankur Bhar
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ankur Bhar </h1>
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 **A passionate  Full-Stack Developer | AI & Technology Enthusiast**
 
 Email Me 👉 ✉️ **bhorsubhro@gmail.com** For Collaboration/Project or Anything Else. 😊😊
