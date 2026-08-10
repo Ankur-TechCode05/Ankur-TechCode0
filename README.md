@@ -105,6 +105,19 @@ Email Me 👉 ✉️ **bhorsubhro@gmail.com** For Collaboration/Project or Anyth
 ![](https://streak-stats.demolab.com/?user=Ankur-TechCode05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankur-TechCode05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<table align="center" width="100%">
+  <tr>
+        <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur-TechCode05&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankur-TechCode05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
