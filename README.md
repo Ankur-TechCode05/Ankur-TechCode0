@@ -22,10 +22,12 @@ Email Me 👉 ✉️ **bhorsubhro@gmail.com** For Collaboration/Project or Anyth
 - 😄 **Pronouns:** Mrs. Ankur Bhar
 - ⚡ **Fun fact:** Started coding to build projects, stayed because fixing bugs became a full-time adventure
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:0066FF,50:7B2FFF,75:FF00E5,100:00FF9D&height=200&section=footer&animation=twinkling" width="100%"/>
+<br/>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FFD700&height=110&section=footer&text=Code.%20Create.%20Believe.&fontSize=26&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankur-bhar-93b043323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhorsubhro@gmail.com) 
@@ -130,4 +132,8 @@ Email Me 👉 ✉️ **bhorsubhro@gmail.com** For Collaboration/Project or Anyth
 ---
 [![](https://komarev.com/ghpvc/?username=Ankur-TechCode05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:00D4FF,75:00FF87,100:FFE600&height=120&section=footer&text=🚀%20Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
